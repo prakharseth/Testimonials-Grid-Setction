@@ -1,0 +1,6 @@
+favicon-32x32: https://i.postimg.cc/tn6rNQst/favicon-32x32.jpg
+image-daniel: https://i.postimg.cc/4mzLKGkX/image-daniel.jpg
+image-jeanette: https://i.postimg.cc/YjLyHgdG/image-jeanette.jpg
+image-jonathan: https://i.postimg.cc/w7K4TvrW/image-jonathan.jpg
+image-kira: https://i.postimg.cc/w12wVkjP/image-kira.jpg
+image-patrick: https://i.postimg.cc/PCT6Y7TY/image-patrick.jpg
